@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BowlingGameKata/.vs/BowlingGameKata/v15
+/BowlingGameKata/BowlingGameKata/bin/Debug
+/BowlingGameKata/BowlingGameKata/obj
+/BowlingGameKata/BowlingGameKata.Test/bin/Debug
+/BowlingGameKata/BowlingGameKata.Test/obj
+/BowlingGameKata/packages
